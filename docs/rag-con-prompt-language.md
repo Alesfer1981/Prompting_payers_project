@@ -1,9 +1,3 @@
----
-title: RAG con Prompt Language
-nav_order: 3
-parent: RAG – Retrieval Augmented Generation
----
-
 # RAG con Prompt Language
 
 ## Buenas prácticas de RAG para agentes que consumen APIs externas
@@ -33,15 +27,15 @@ parent: RAG – Retrieval Augmented Generation
 - En ejemplos de código, usa **placeholders** (`API_KEY`) y añade políticas de rotación/autenticación.
 - Si el proveedor expone *rate limits*, incluye *retry/backoff* y manejo de *429/5xx* en los templates de código.
 
-![{A1E7BD0D-AA22-4E71-80A8-5203D2006A67}.png](assets/images/rag/A1E7BD0D-AA22-4E71-80A8-5203D2006A67.png)
+![{A1E7BD0D-AA22-4E71-80A8-5203D2006A67}.png](A1E7BD0D-AA22-4E71-80A8-5203D2006A67.png)
 
-![{4F8B4BA8-E4B9-437B-B6C2-F2181D7D78C9}.png](assets/images/rag/4F8B4BA8-E4B9-437B-B6C2-F2181D7D78C9.png)
+![{4F8B4BA8-E4B9-437B-B6C2-F2181D7D78C9}.png](4F8B4BA8-E4B9-437B-B6C2-F2181D7D78C9.png)
 
 ---
 
 En un archivo yaml
 
-![{95624AEC-CD2C-4D91-90CE-D7C606C20DE6}.png](assets/images/rag/95624AEC-CD2C-4D91-90CE-D7C606C20DE6.png)
+![{95624AEC-CD2C-4D91-90CE-D7C606C20DE6}.png](95624AEC-CD2C-4D91-90CE-D7C606C20DE6.png)
 
 ### ===========================
 

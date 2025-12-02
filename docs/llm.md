@@ -1,9 +1,3 @@
----
-title: Introducción a LLM
-nav_order: 1
-parent: LLM – Modelos de Lenguaje
----
-
 # LLM
 
 ## **Un LLM (Large Language Model), o Modelo de Lenguaje Grande:**
@@ -83,23 +77,23 @@ Terminos:
 
 ---
 
-[Context LLM](context-llm.md)
+[Context LLM](Context%20LLM%2028ec2187ea128012ae25cb0107a010a7.md)
 
-[Tipos de LLM](tipos-de-llm.md)
+[Tipos de LLM](Tipos%20de%20LLM%20166c2187ea12804fb42be6c4b333325c.md)
 
-[LLM Foundational](llm-foundational.md)
+[LLM Foundational](LLM%20Foundational%20170c2187ea12800c9e26e395d3a8fd00.md)
 
 [GPT **(Generative Pre-trained Transformer)**](GPT%20(Generative%20Pre-trained%20Transformer)%20105c2187ea12808199faedf07041ecf3.md)
 
-[Ejemplos de LLMs:](ejemplos-llms.md)
+[Ejemplos de LLMs:](Ejemplos%20de%20LLMs%20618818ac53fd4a7a85bc8cdb60fd74c2.md)
 
-[Clasificación de los LLM](clasificacion-llm.md)
+[Clasificación de los LLM](Clasificaci%C3%B3n%20de%20los%20LLM%20166c2187ea1280399e9ae7b105202e45.md)
 
-[Arquitecturas de LLM](arquitecturas-llm.md)
+[Arquitecturas de LLM](Arquitecturas%20de%20LLM%20171c2187ea12803f8d5acf6604779bb6.md)
 
-[Herramientas y Frameworks](herramientas-frameworks.md)
+[Herramientas y Frameworks](Herramientas%20y%20Frameworks%20171c2187ea12806888a3effda9677af0.md)
 
-[LLM Evaluations](llm-evaluations.md)
+[LLM Evaluations](LLM%20Evaluations%20179c2187ea1280f6b18df8d757bfeb71.md)
 
 [SLMs (The Small Language Models)](SLMs%20(The%20Small%20Language%20Models)%20178c2187ea128090861bfd47a8252702.md)
 
@@ -120,4 +114,4 @@ Terminos:
 - **Papers de investigación:** arXiv
 - **Comunidades en línea:** Stack Overflow, Reddit (r/machinelearning, r/deeplearning)
 
-![image.png](assets/images/llm/image 7.png)
+![image.png](image%207.png)

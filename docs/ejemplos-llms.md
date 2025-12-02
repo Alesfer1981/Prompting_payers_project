@@ -1,12 +1,6 @@
----
-title: Ejemplos de LLM
-nav_order: 7
-parent: LLM – Modelos de Lenguaje
----
-
 # Ejemplos de LLMs:
 
-![image.png](assets/images/llm/image 25.png)
+![image.png](image%2025.png)
 
 - **GPT-3 y GPT-4:**
     
@@ -19,19 +13,19 @@ parent: LLM – Modelos de Lenguaje
     
     → T de Transformer
     
-    ![image.png](assets/images/llm/image 26.png)
+    ![image.png](image%2026.png)
     
 - **Google Bard:**
     - Bard de Google está impulsado por un modelo de lenguaje grande (MLG) llamado LaMDA (Language Model for Dialogue Applications), que se entrena en un conjunto masivo de datos de texto y código. Esto permite a Bard comprender las sutilezas del lenguaje humano y generar texto que es tanto preciso como creativo. se basa en el modelo PaLM 2 de Google.
         
-        ![image.png](assets/images/llm/image 27.png)
+        ![image.png](image%2027.png)
         
 - GEMINI:
     
     
     - Es la evolución de Google Bard de Google - Multimodal texto, imagenes y sonido
     
-    ![image.png](assets/images/llm/image 28.png)
+    ![image.png](image%2028.png)
     
 - Claude 2
     
@@ -39,7 +33,7 @@ parent: LLM – Modelos de Lenguaje
     - de Anthropic Contextually adaptative AI
     - Intoducción a [Claude](https://docs.anthropic.com/es/docs/intro-to-claude)
     
-    ![image.png](assets/images/llm/image 29.png)
+    ![image.png](image%2029.png)
     
 - Mistral 7B: [here](https://docs.mistral.ai/)
     
@@ -48,7 +42,7 @@ parent: LLM – Modelos de Lenguaje
     - Announced in September 2023
     - Multilingual Maestro, understad and generates diverse languages with deep learning efficiencies
     
-    ![image.png](assets/images/llm/image 30.png)
+    ![image.png](image%2030.png)
     
 - **LLaMA** y **LLaMA2** de Meta:
     
@@ -62,7 +56,7 @@ parent: LLM – Modelos de Lenguaje
     - Con el lanzamiento de su potente modelo de lenguaje de gran tamaño de código abierto **Meta AI (LLaMA)** y su versión mejorada **(LLaMA 2),** Meta está enviando una señal significativa al mercado**.**
     - The model, like other LLMs, works by taking a sequence of words as an input and predicts a next word to recursively generate text.
     
-    ![image.png](assets/images/llm/image 31.png)
+    ![image.png](image%2031.png)
     
 
 ### Otros ([here](https://www.vectara.com/blog/top-large-language-models-llms-gpt-4-llama-gato-bloom-and-when-to-choose-one-over-the-other))
@@ -94,4 +88,4 @@ MidJourney es el nombre de uno de los sistemas de inteligencia artificial más p
     3. It generates text in 46 natural languages and 13 programming languages
 3. **BERT: (Bidirectional Encoder Representations from Transformers):** Desarrollado por Google, es otro LLM ampliamente utilizado, especialmente en tareas de comprensión de texto y clasificación. BERT se considera un modelo de representación del lenguaje, ya que utiliza aprendizaje profundo que es adecuado para el procesamiento del lenguaje natural (NLP). Fue desarrollado en 2017 por investigadores de Google. Uno de los primeros experimentos para probar el potencial de los transformadores fue el BERT.
 
-![image.png](assets/images/llm/image 32.png)
+![image.png](image%2032.png)

@@ -1,9 +1,3 @@
----
-title: Clasificación de los LLM
-nav_order: 6
-parent: LLM – Modelos de Lenguaje
----
-
 # Clasificación de los LLM
 
 Los **LLMs (Large Language Models)** se pueden clasificar según diferentes criterios, como el propósito, la arquitectura, y los datos con los que fueron entrenados. Aquí tienes una visión general de los principales tipos:

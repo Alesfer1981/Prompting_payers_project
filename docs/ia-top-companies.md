@@ -1,16 +1,10 @@
----
-title: IA Top Companies
-nav_order: 4
-parent: IA & Conceptos Base
----
-
 # IA Top Companies
 
 OpenAI, Anthropic, xAI, and Mistral, are the hottest AI companies
 
 De donde vienen los ingenieros que contratan estas 4 compañias? La respuesta en el grafico:
 
-![image.png](assets/images/ia/image 22.png)
+![image.png](image%2022.png)
 
 Most common sources of hires by company:
 
