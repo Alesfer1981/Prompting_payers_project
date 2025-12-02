@@ -1,3 +1,9 @@
+---
+title: Context Engineering
+nav_order: 4
+parent: Prompt Engineering
+---
+
 # Context Enginnering
 
 Consiste en:

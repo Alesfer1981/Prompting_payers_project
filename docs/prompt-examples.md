@@ -1,3 +1,9 @@
+---
+title: Prompt Examples
+nav_order: 5
+parent: Prompt Engineering
+---
+
 # Prompt Examples
 
 ## 🧩 Clasificación de Tipos de Prompting

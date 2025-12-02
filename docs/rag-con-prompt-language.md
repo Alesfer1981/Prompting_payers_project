@@ -1,3 +1,9 @@
+---
+title: RAG con Prompt Language
+nav_order: 3
+parent: RAG – Retrieval Augmented Generation
+---
+
 # RAG con Prompt Language
 
 ## Buenas prácticas de RAG para agentes que consumen APIs externas

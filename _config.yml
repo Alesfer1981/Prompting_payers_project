@@ -1,3 +1,12 @@
-title: "Prompting_payers_project"
-description: "Documentación de investigación en IA y Prompting"
-theme: jekyll-theme-cayman
+title: "Prompting Payers Project"
+description: "Documentación completa de IA, Prompting, LLM y RAG"
+theme: "just-the-docs"
+
+url: "https://alesfer1981.github.io"
+baseurl: "/Prompting_payers_project"
+
+search_enabled: true
+
+aux_links:
+  "Ver repositorio en GitHub":
+    - "https://github.com/Alesfer1981/Prompting_payers_project"

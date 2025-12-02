@@ -1,19 +1,20 @@
-# Prompting_payers_project
+# Prompting Payers Project (Just the Docs)
 
-Este repositorio contiene la documentación de IA y *prompting* exportada desde Notion y preparada para publicarse con **GitHub Pages**.
+Este repositorio está preparado para usarse con el tema **Just the Docs** en GitHub Pages.
 
 ## Estructura
 
-- `docs/`: Contenido principal en Markdown.
-  - `index.md`: Página de inicio con un índice agrupado por temas (LLM, RAG, Prompting, etc.).
-  - Otros `.md`: Páginas individuales de tu investigación.
-  - `assets/icons/`: Carpeta lista para que agregues íconos personalizados.
-- `_config.yml`: Configuración mínima para GitHub Pages usando el tema `jekyll-theme-cayman`.
+- `_config.yml`: Configuración del sitio (título, descripción, tema, URL/baseurl).
+- `docs/`:
+  - `index.md`: Página de inicio.
+  - Páginas seccionales con `has_children: true` (IA, LLM, RAG, Prompting, Frameworks, Federated).
+  - Páginas hijas con `parent:` apuntando a cada sección.
+  - Imágenes exportadas desde Notion en la raíz de `docs/`.
 
-## Cómo publicarlo en GitHub Pages
+## Publicación en GitHub Pages
 
 1. Crea un repositorio en GitHub llamado `Prompting_payers_project`.
-2. Sube todo el contenido de esta carpeta al repositorio.
+2. Sube todo el contenido de esta carpeta.
 3. En GitHub, ve a **Settings → Pages**.
 4. En **Build and deployment**, selecciona:
    - Source: `Deploy from branch`
@@ -21,8 +22,8 @@ Este repositorio contiene la documentación de IA y *prompting* exportada desde 
    - Folder: `/docs`
 5. Guarda los cambios.
 
-Tras unos minutos, tu sitio estará disponible en una URL similar a:
+El sitio quedará disponible en:
 
 `https://<tu-usuario>.github.io/Prompting_payers_project/`
 
-La página de inicio será `docs/index.md`, que contiene el índice con enlaces al resto del contenido.
+con un sidebar jerárquico y búsqueda habilitada gracias a **Just the Docs**.

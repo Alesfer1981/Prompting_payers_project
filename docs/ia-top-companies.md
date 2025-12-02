@@ -1,3 +1,9 @@
+---
+title: IA Top Companies
+nav_order: 4
+parent: IA & Conceptos Base
+---
+
 # IA Top Companies
 
 OpenAI, Anthropic, xAI, and Mistral, are the hottest AI companies

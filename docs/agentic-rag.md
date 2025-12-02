@@ -1,3 +1,9 @@
+---
+title: Agentic RAG
+nav_order: 2
+parent: RAG – Retrieval Augmented Generation
+---
+
 # Agentic RAG
 
 # Why This Matters for RAG

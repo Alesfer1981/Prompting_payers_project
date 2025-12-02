@@ -1,3 +1,9 @@
+---
+title: Ejemplos de LLM
+nav_order: 7
+parent: LLM – Modelos de Lenguaje
+---
+
 # Ejemplos de LLMs:
 
 ![image.png](image%2025.png)

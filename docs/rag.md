@@ -1,3 +1,9 @@
+---
+title: RAG — Conceptos Base
+nav_order: 1
+parent: RAG – Retrieval Augmented Generation
+---
+
 # RAG (Retrieval Augmented Generation)
 
 Augmentation (Aumento)
@@ -118,4 +124,4 @@ RAG - [3 tecnicas de transformacion optimizacion](https://dev.to/jamesli/in-dept
 
 ![{C3616D3B-319D-46B5-8518-BC4E4B82B1D4}.png](C3616D3B-319D-46B5-8518-BC4E4B82B1D4.png)
 
-[Agentic RAG](Agentic%20RAG%20289c2187ea12806c9659d89683c7d30a.md)
+[Agentic RAG](agentic-rag.md)

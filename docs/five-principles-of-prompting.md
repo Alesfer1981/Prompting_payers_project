@@ -1,3 +1,9 @@
+---
+title: Five Principles of Prompting
+nav_order: 2
+parent: Prompt Engineering
+---
+
 # Five Principles of Prompting
 
 ¡Claro! Con gusto te explico los **Cinco Principios de Prompting** y te doy algunos ejemplos.

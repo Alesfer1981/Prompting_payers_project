@@ -1,3 +1,9 @@
+---
+title: IA Generativa
+nav_order: 2
+parent: IA & Conceptos Base
+---
+
 # IA Generativa
 
 **Generative Artificial Intelligence** or **Generative AI** or shortly **Gen AI,** is a branch of AI that focuses on creating new content, rather than simply analyzing or understanding existing data. Think of Gen AI as a creative AI artist, instead of a data scientist. **Generative AI** models are usually trained on large volumes of existing content. During training, these models analyze the patterns and relationships within this data and learn the "rules" of what makes a good poem, a realistic image, or a catchy tune. After training, the model can then generate new content which not only follows these rules but is also original and creative.
