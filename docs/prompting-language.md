@@ -1,3 +1,9 @@
+---
+title: Prompting Language
+nav_order: 3
+parent: Prompt Engineering
+---
+
 # Prompting language
 
 ### **Prompting language”** o **lenguaje de instrucciones estructuradas para IA**
@@ -232,14 +238,14 @@ Formato en que debe entregarse el código (archivos, ZIP, o texto plano por arch
 
 ---
 
-[Context Enginnering](Context%20Enginnering%202b2c2187ea1280528aeae31606e8001a.md)
+[Context Enginnering](context-engineering.md)
 
-[Prompt Examples](Prompt%20Examples%20293c2187ea12806e91a0ceb83111deb4.md)
+[Prompt Examples](prompt-examples.md)
 
-[RAG con Prompt Language](RAG%20con%20Prompt%20Language%202a4c2187ea1280e58c07cf335a1601dc.md)
+[RAG con Prompt Language](rag-con-prompt-language.md)
 
-![{0D61712F-7740-4771-B2AB-B74101B95AB7}.png](assets/images/0D61712F-7740-4771-B2AB-B74101B95AB7.png)
+![{0D61712F-7740-4771-B2AB-B74101B95AB7}.png](assets/images/prompting/0D61712F-7740-4771-B2AB-B74101B95AB7.png)
 
-![{4F4F8F95-FF50-4CCE-9C60-61143FCF4155}.png](assets/images/4F4F8F95-FF50-4CCE-9C60-61143FCF4155.png)
+![{4F4F8F95-FF50-4CCE-9C60-61143FCF4155}.png](assets/images/prompting/4F4F8F95-FF50-4CCE-9C60-61143FCF4155.png)
 
 ACE: Agent Context Engineering ⇒ Otro nuevo?

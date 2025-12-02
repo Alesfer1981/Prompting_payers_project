@@ -1,3 +1,9 @@
+---
+title: Hugging Face
+nav_order: 1
+parent: Frameworks & Tools
+---
+
 # Hugging Face
 
 [Curso](https://huggingface.co/learn/agents-course/unit0/introduction)

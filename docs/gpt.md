@@ -1,3 +1,9 @@
+---
+title: GPT
+nav_order: 8
+parent: LLM – Modelos de Lenguaje
+---
+
 # GPT (Generative Pre-trained Transformer)
 
 GPT no es un lenguaje en sí mismo, sino un modelo de lenguaje. Aquí tienes una explicación más detallada:

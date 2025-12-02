@@ -1,3 +1,9 @@
+---
+title: RAG — Conceptos Base
+nav_order: 1
+parent: RAG – Retrieval Augmented Generation
+---
+
 # RAG (Retrieval Augmented Generation)
 
 Augmentation (Aumento)
@@ -8,15 +14,15 @@ RAG bridges the gap between retrieval-based and generative AI models by providin
 
 RAG systems combine the power of **Large Language Models (LLMs)** with external knowledge retrieval, allowing chatbots and AI applications to provide contextually rich and accurate responses.
 
-![{2566ACAA-F537-4CF5-A7A7-B9E05348FC11}.png](assets/images/2566ACAA-F537-4CF5-A7A7-B9E05348FC11.png)
+![{2566ACAA-F537-4CF5-A7A7-B9E05348FC11}.png](assets/images/rag/2566ACAA-F537-4CF5-A7A7-B9E05348FC11.png)
 
 Este es el modelo tradicional de comunicación con un sistema LLM:
 
-![{D1F97EBE-3508-4367-857E-256177BC8B79}.png](assets/images/D1F97EBE-3508-4367-857E-256177BC8B79.png)
+![{D1F97EBE-3508-4367-857E-256177BC8B79}.png](assets/images/rag/D1F97EBE-3508-4367-857E-256177BC8B79.png)
 
 Aqui se representa el uso del RAG como complemento al sistema LLM original:
 
-![{F4644A56-BCF7-482E-ADEA-8454DD54DC24}.png](assets/images/F4644A56-BCF7-482E-ADEA-8454DD54DC24.png)
+![{F4644A56-BCF7-482E-ADEA-8454DD54DC24}.png](assets/images/rag/F4644A56-BCF7-482E-ADEA-8454DD54DC24.png)
 
 RAG architecture comprises of two main components:
 
@@ -28,21 +34,21 @@ The process of indexing is carried out in three stages:
 2. Larger documents are partitioned into smaller fragments or chunks.
 3. These chunks are preserved utilizing an embedding model and vector database. ⇒ DEFINITION: Conectar una base vectorial real (como **FAISS**, [**Chroma**](https://docs.trychroma.com/docs/overview/getting-started) o [**Weaviate](https://medium.com/data-science/getting-started-with-weaviate-a-beginners-guide-to-search-with-vector-databases-14bbb9285839) [tutorial](https://docs.weaviate.io/weaviate/quickstart)**)
 
-![{C371EE97-BAFA-457E-9947-AE84A4A401D9}.png](assets/images/C371EE97-BAFA-457E-9947-AE84A4A401D9.png)
+![{C371EE97-BAFA-457E-9947-AE84A4A401D9}.png](assets/images/rag/C371EE97-BAFA-457E-9947-AE84A4A401D9.png)
 
 The latest information can be incorporated into the RAG architecture in real-time:
 
-![{B91FFEFC-83E9-4CE9-92D1-2ED46472BFB6}.png](assets/images/B91FFEFC-83E9-4CE9-92D1-2ED46472BFB6.png)
+![{B91FFEFC-83E9-4CE9-92D1-2ED46472BFB6}.png](assets/images/rag/B91FFEFC-83E9-4CE9-92D1-2ED46472BFB6.png)
 
 Typical workflow of RAG:
 
-![image.png](assets/images/image%208.png)
+![image.png](assets/images/rag/image 8.png)
 
 **Embeding model:**
 
 Un **embedding model** (modelo de incrustación) es un tipo de modelo de IA que convierte datos en números (vectores) para que sean más fáciles de procesar por una computadora.
 
-![{754C4057-D722-4198-B8FE-6577C51540B6}.png](assets/images/754C4057-D722-4198-B8FE-6577C51540B6.png)
+![{754C4057-D722-4198-B8FE-6577C51540B6}.png](assets/images/rag/754C4057-D722-4198-B8FE-6577C51540B6.png)
 
 [aqui](https://medium.com/@nay1228/embedding-models-a-comprehensive-guide-for-beginners-to-experts-0cfc11d449f1)
 
@@ -79,15 +85,15 @@ Por ejemplo, si preguntas **"¿Cómo cuidar un cachorro?"**, el sistema usa embe
 
 **Embedding Functions:** Embedding functions play a crucial role in the transformation of data chunks into numerical vectors
 
-![image.png](assets/images/image%209.png)
+![image.png](assets/images/rag/image 9.png)
 
-![{D166866E-E488-4BA2-BFBC-9A4443F206FD}.png](assets/images/D166866E-E488-4BA2-BFBC-9A4443F206FD.png)
+![{D166866E-E488-4BA2-BFBC-9A4443F206FD}.png](assets/images/rag/D166866E-E488-4BA2-BFBC-9A4443F206FD.png)
 
 [here](https://machinelearningmastery.com/a-practical-guide-to-building-local-rag-applications-with-langchain/)
 
-![{D8AFF803-FFDE-4483-9592-9460663B23FF}.png](assets/images/D8AFF803-FFDE-4483-9592-9460663B23FF.png)
+![{D8AFF803-FFDE-4483-9592-9460663B23FF}.png](assets/images/rag/D8AFF803-FFDE-4483-9592-9460663B23FF.png)
 
-![image.png](assets/images/image%2010.png)
+![image.png](assets/images/rag/image 10.png)
 
 Here are 8 RAG variants changing how we build with LLMs:
 
@@ -116,6 +122,6 @@ RAG - [3 tecnicas de transformacion optimizacion](https://dev.to/jamesli/in-dept
 - Problem decomposition: The Problem Decomposition strategy targets complex queries by breaking them down into multiple simpler sub-problems.
 - Step-Back: The Step-Back strategy involves "thinking a step back" to re-examine the problem from a more abstract or fundamental level.
 
-![{C3616D3B-319D-46B5-8518-BC4E4B82B1D4}.png](assets/images/C3616D3B-319D-46B5-8518-BC4E4B82B1D4.png)
+![{C3616D3B-319D-46B5-8518-BC4E4B82B1D4}.png](assets/images/rag/C3616D3B-319D-46B5-8518-BC4E4B82B1D4.png)
 
-[Agentic RAG](Agentic%20RAG%20289c2187ea12806c9659d89683c7d30a.md)
+[Agentic RAG](agentic-rag.md)

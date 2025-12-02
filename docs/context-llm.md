@@ -1,3 +1,9 @@
+---
+title: Context LLM
+nav_order: 4
+parent: LLM – Modelos de Lenguaje
+---
+
 # Context LLM
 
 La diferencia principal entre un LLM (Large Language Model) y un Long context LLM es la cantidad de información (texto) que pueden procesar y mantener en memoria para interpretar, generar o responder consultas.

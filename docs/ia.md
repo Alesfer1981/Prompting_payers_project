@@ -1,3 +1,9 @@
+---
+title: IA
+nav_order: 1
+parent: IA & Conceptos Base
+---
+
 # IA
 
 - El curso de DataCamp
@@ -26,33 +32,33 @@ Tengo un ejemplo de python que utiliza ollama y contesta preguntas, para usarlo 
 
 ---
 
-[**LLM** ](LLM%203024aa4939ac43b3bf686bfeab956202.md)
+[**LLM** ](llm.md)
 
 [RAG (Retrieval Augmented Generation)](RAG%20(Retrieval%20Augmented%20Generation)%20178c2187ea12804d94a8f801e24078ca.md)
 
-[**Prompt Engineering**](Prompt%20Engineering%20a1db65f94f614990bf1e97629a3ac142.md)
+[**Prompt Engineering**](prompt-engineering.md)
 
-[**IA Generativa**](IA%20Generativa%207867e84e097d43d7900410b515fdadd4.md)
+[**IA Generativa**](ia-generativa.md)
 
 [Tokenización (Tokenization)](Tokenizaci%C3%B3n%20(Tokenization)%20181c2187ea12809d8d4ed8dee572e172.md)
 
-[[**Hugging Face**](https://huggingface.co/)](Hugging%20Face%201a4c2187ea128028a22ff8a7cb2462b8.md)
+[[**Hugging Face**](https://huggingface.co/)](hugging-face.md)
 
 ### Others AI
 
-[Analytics Vidhya](Analytics%20Vidhya%20181c2187ea12803ba22aee22ecdab003.md)
+[Analytics Vidhya](analytics-vidhya.md)
 
-[Federated Learning ](Federated%20Learning%20170c2187ea1280b1afeed7c5fcc273c8.md)
+[Federated Learning ](federated-learning.md)
 
-[IA Top Companies](IA%20Top%20Companies%20158c2187ea12801a9b02ce57152910de.md)
+[IA Top Companies](ia-top-companies.md)
 
 ### Los grandes modelos lingüísticos (LLMs) son un subconjunto de NLP que generan respuestas textuales similares a las humanas
 
-![image.png](assets/images/image.png)
+![image.png](assets/images/ia/image.png)
 
-![image.png](assets/images/image%201.png)
+![image.png](assets/images/ia/image 1.png)
 
-![image.png](assets/images/image%202.png)
+![image.png](assets/images/ia/image 2.png)
 
 [30 AI Projects You Can Build This Weekend](https://drive.google.com/file/d/1RT9nTK98Tz9b1S4SFkTUSziLY_oHUrT2/view)
 
@@ -75,21 +81,21 @@ Practical experience with orchestration frameworks like LangChain and Llama Inde
 
 Consideraciones al momento de usar la IA:
 
-![Siempre que cumpla con los terms and conditions of chatGPT. Copyright](assets/images/image%203.png)
+![Siempre que cumpla con los terms and conditions of chatGPT. Copyright](assets/images/ia/image 3.png)
 
-![image.png](assets/images/image%204.png)
+![image.png](assets/images/ia/image 4.png)
 
-![{DC0601FF-CAB2-4494-BB2F-BDE545761F20}.png](assets/images/DC0601FF-CAB2-4494-BB2F-BDE545761F20.png)
+![{DC0601FF-CAB2-4494-BB2F-BDE545761F20}.png](assets/images/ia/DC0601FF-CAB2-4494-BB2F-BDE545761F20.png)
 
-![image.png](assets/images/image%205.png)
+![image.png](assets/images/ia/image 5.png)
 
-![image.png](assets/images/image%206.png)
+![image.png](assets/images/ia/image 6.png)
 
-![{0065A4F6-DBA9-4033-8DAC-A0573F328519}.png](assets/images/0065A4F6-DBA9-4033-8DAC-A0573F328519.png)
+![{0065A4F6-DBA9-4033-8DAC-A0573F328519}.png](assets/images/ia/0065A4F6-DBA9-4033-8DAC-A0573F328519.png)
 
-![{F58C1AF5-3621-4D38-AF65-93108C04AF1A}.png](assets/images/F58C1AF5-3621-4D38-AF65-93108C04AF1A.png)
+![{F58C1AF5-3621-4D38-AF65-93108C04AF1A}.png](assets/images/ia/F58C1AF5-3621-4D38-AF65-93108C04AF1A.png)
 
-![{C61FDC94-FC30-4D0B-9768-900D503A230A}.png](assets/images/C61FDC94-FC30-4D0B-9768-900D503A230A.png)
+![{C61FDC94-FC30-4D0B-9768-900D503A230A}.png](assets/images/ia/C61FDC94-FC30-4D0B-9768-900D503A230A.png)
 
 𝗧𝗼𝗽 𝗚𝗲𝗻𝗲𝗿𝗮𝘁𝗶𝘃𝗲 𝗔𝗜 𝗧𝗲𝗿𝗺𝘀 𝗬𝗼𝘂 𝗦𝗵𝗼𝘂𝗹𝗱 𝗞𝗻𝗼𝘄 — 𝗘𝘅𝗽𝗹𝗮𝗶𝗻𝗲𝗱 𝗦𝗶𝗺𝗽𝗹𝘆
 
@@ -181,17 +187,17 @@ Consideraciones al momento de usar la IA:
 
 Knowing the terms is just step one — what really matters is how you 𝘶𝘴𝘦 them to build better solutions.
 
-![{AE07459B-98C9-4209-9423-0D51BD03B9B7}.png](assets/images/AE07459B-98C9-4209-9423-0D51BD03B9B7.png)
+![{AE07459B-98C9-4209-9423-0D51BD03B9B7}.png](assets/images/ia/AE07459B-98C9-4209-9423-0D51BD03B9B7.png)
 
-![{EDB54C02-0C61-43FB-BDED-81E2545A18FD}.png](assets/images/EDB54C02-0C61-43FB-BDED-81E2545A18FD.png)
+![{EDB54C02-0C61-43FB-BDED-81E2545A18FD}.png](assets/images/ia/EDB54C02-0C61-43FB-BDED-81E2545A18FD.png)
 
 RAG Developer Stack
 
-![{EFA3C194-A564-496A-A570-8FE380FA2518}.png](assets/images/EFA3C194-A564-496A-A570-8FE380FA2518.png)
+![{EFA3C194-A564-496A-A570-8FE380FA2518}.png](assets/images/ia/EFA3C194-A564-496A-A570-8FE380FA2518.png)
 
 ## [Vibe Coding](https://huggingface.co/papers/2505.19443)  vs.  [Agentic Coding](https://arxiv.org/pdf/2505.19443)
 
-![{DC92AAC7-2EE4-4A13-9E19-804095233B0B}.png](assets/images/DC92AAC7-2EE4-4A13-9E19-804095233B0B.png)
+![{DC92AAC7-2EE4-4A13-9E19-804095233B0B}.png](assets/images/ia/DC92AAC7-2EE4-4A13-9E19-804095233B0B.png)
 
 Vibe Coding integrates principles from prompt engineering, agile design, and human-AI co-creation, while abstracting much of the linguistic burden onto the LLM. Vibe Coding, a term popularized by Andrej Karpathy Andrej Karpathy, describes a software development methodology centered on the developer’s intuitive expression of intent to an LLM, which then acts as a highly responsive co-pilot in generating code
 
@@ -201,9 +207,9 @@ While **Vibe Coding** represents a leap in developer productivity and human-AI i
 
 Understanding the distinction between Vibe Coding and Agentic coding is crucial for navigating the future landscape of AI-assisted software development. Vibe coding maintains a human-centric model, where the developer is an ever-present conductor guiding the AI’s output a model well-suited to creative ideation, exploratory development, and rapid iteration. Agentic coding, on the other hand, introduces AI agents as semi-autonomous collaborators, shifting the human role to that of a supervisor who defines goals and evaluates outcomes
 
-![{01BB03E5-AF96-411B-B773-AC0F82412E0D}.png](assets/images/01BB03E5-AF96-411B-B773-AC0F82412E0D.png)
+![{01BB03E5-AF96-411B-B773-AC0F82412E0D}.png](assets/images/ia/01BB03E5-AF96-411B-B773-AC0F82412E0D.png)
 
-![{77BE42BA-6761-401E-875C-4EC34AF42307}.png](assets/images/77BE42BA-6761-401E-875C-4EC34AF42307.png)
+![{77BE42BA-6761-401E-875C-4EC34AF42307}.png](assets/images/ia/77BE42BA-6761-401E-875C-4EC34AF42307.png)
 
 Vibe Coding resume: The developer provides an initial prompt; the LLM generates a code artifact; the developer reviews, critiques, and refines the prompt or directly edits the code, continuing the cycle until the desired ”vibe” is achieved [31], [32]. This iterative refinement loop is a defining characteristic, reflecting a co-constructive model of meaning-making between human and machine
 
@@ -216,7 +222,7 @@ Our findings suggest that successful AI software engineering will rely not on ch
 
 Context Engenniering
 
-![{C019C976-E13C-4AEA-A8F5-D8710F99A83A}.png](assets/images/C019C976-E13C-4AEA-A8F5-D8710F99A83A.png)
+![{C019C976-E13C-4AEA-A8F5-D8710F99A83A}.png](assets/images/ia/C019C976-E13C-4AEA-A8F5-D8710F99A83A.png)
 
 Que es un RPA:  
 Un RPA, o Automatización Robótica de Procesos, **es una tecnología que utiliza "bots" de software para automatizar tareas repetitivas y basadas en reglas que normalmente realizaría un humano**. Estos bots imitan las acciones humanas al interactuar con sistemas y aplicaciones digitales, como introducir datos, procesar transacciones y mover archivos, liberando a los empleados para que se enfoquen en tareas más estratégicas y complejas. 

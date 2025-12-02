@@ -1,10 +1,16 @@
+---
+title: IA Generativa
+nav_order: 2
+parent: IA & Conceptos Base
+---
+
 # IA Generativa
 
 **Generative Artificial Intelligence** or **Generative AI** or shortly **Gen AI,** is a branch of AI that focuses on creating new content, rather than simply analyzing or understanding existing data. Think of Gen AI as a creative AI artist, instead of a data scientist. **Generative AI** models are usually trained on large volumes of existing content. During training, these models analyze the patterns and relationships within this data and learn the "rules" of what makes a good poem, a realistic image, or a catchy tune. After training, the model can then generate new content which not only follows these rules but is also original and creative.
 
 In simple terms, **Generative AI** models use the knowledge gained (ganado) from training data (existing content) to generate new content as per the requirements.
 
-![image.png](assets/images/image%2014.png)
+![image.png](assets/images/ia/image 14.png)
 
 Son sistemas que son capaces de generar contenido que imita o se aproxima a la habilidad humana.
 Se corresponden con un subconjunto de técnicas pertenecientes al Machine Learning y más concretamente al Deep Learning.
@@ -23,11 +29,11 @@ Generative AI can create various types of content, including:
 - `Audio`: Music, sound effects, speech, etc. → OpenAI’s Jukebox
 - `Video`: Short clips, deepfakes, etc. → Synthesia
 
-![image.png](assets/images/image%2015.png)
+![image.png](assets/images/ia/image 15.png)
 
-![image.png](assets/images/image%2016.png)
+![image.png](assets/images/ia/image 16.png)
 
-![image.png](assets/images/image%2017.png)
+![image.png](assets/images/ia/image 17.png)
 
 For the uninitiated (**no iniciados)**, autonomous agents are AI systems that can perform tasks independently without direct human involvement. These systems have actually existed for some time, but with the development of LLMs, especially those which possess strong reasoning, autonomous agent research (investigacion) has grown exponentially in the very recent past.
 

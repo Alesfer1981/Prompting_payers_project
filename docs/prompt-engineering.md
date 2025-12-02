@@ -1,3 +1,9 @@
+---
+title: Prompt Engineering
+nav_order: 1
+parent: Prompt Engineering
+---
+
 # Prompt Engineering
 
 La **Ingeniería de Prompts** se refiere al proceso de diseñar, ajustar y optimizar las instrucciones o "prompts" que se le dan a un modelo de inteligencia artificial, como un modelo de lenguaje, para obtener los resultados más precisos, relevantes o creativos posibles.
@@ -29,9 +35,9 @@ Veamos los elementos esenciales que conforman un buen prompt:
 - **Datos de entrada.** Son la información específica que el modelo debe procesar, ya sea un párrafo, números o una palabra.
 - **Indicador de salida.** Define el formato o estilo de respuesta deseado, siendo especialmente útil en representaciones de roles. Por ejemplo, "Reescribe la siguiente frase con el estilo de Shakespeare" establece una pauta estilística clara.
 
-![image.png](assets/images/image%2011.png)
+![image.png](assets/images/prompting/image 11.png)
 
-[Five Principles of Prompting](Five%20Principles%20of%20Prompting%20182c2187ea1280ad93dce4c9085a5213.md)
+[Five Principles of Prompting](five-principles-of-prompting.md)
 
 ### Curso youtube de Prompt Engineeting [here](https://www.youtube.com/playlist?list=PLhRXULtLjLtcT5Ig8f7V-_YAVw9mrjmQA)
 
@@ -54,7 +60,7 @@ Veamos los elementos esenciales que conforman un buen prompt:
 
 - **Formatos:** Se pueden pedir formatos de salida en la respuesta como: CSV, Markdown, XML
 
-![image.png](assets/images/image%2012.png)
+![image.png](assets/images/prompting/image 12.png)
 
 Indica que el parrafo ingresado debe ser resumido en formato .CSV
 
@@ -62,9 +68,9 @@ Indica que el parrafo ingresado debe ser resumido en formato .CSV
 
 - **Directivas:** Se pueden usar directivas para indicar una salida:
     
-    ![image.png](assets/images/image%2013.png)
+    ![image.png](assets/images/prompting/image 13.png)
     
 
 - **Información adicional**: Si la indicacion/directiva es escribir un email, se puede incluir información como su nombre y su cargo para que el GenAI genere la firma del mensaje
 
-[**Prompting language**](Prompting%20language%20292c2187ea1280118f4dc1a845681055.md)
+[**Prompting language**](prompting-language.md)

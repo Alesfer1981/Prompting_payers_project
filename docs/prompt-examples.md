@@ -1,3 +1,9 @@
+---
+title: Prompt Examples
+nav_order: 5
+parent: Prompt Engineering
+---
+
 # Prompt Examples
 
 ## 🧩 Clasificación de Tipos de Prompting
@@ -240,8 +246,8 @@ Console.WriteLine("\n🔍 Evaluación automática:\n" + validation);
 
 Ejemplo de Markdown:
 
-![{15CD2AA5-39C2-48A0-A43B-1C8947242218}.png](assets/images/15CD2AA5-39C2-48A0-A43B-1C8947242218.png)
+![{15CD2AA5-39C2-48A0-A43B-1C8947242218}.png](assets/images/prompting/15CD2AA5-39C2-48A0-A43B-1C8947242218.png)
 
-![{047C9087-1773-4855-81D7-8F9838DF6845}.png](assets/images/047C9087-1773-4855-81D7-8F9838DF6845.png)
+![{047C9087-1773-4855-81D7-8F9838DF6845}.png](assets/images/prompting/047C9087-1773-4855-81D7-8F9838DF6845.png)
 
-![{2DC10674-339C-419C-A18D-E2FA94B49928}.png](assets/images/2DC10674-339C-419C-A18D-E2FA94B49928.png)
+![{2DC10674-339C-419C-A18D-E2FA94B49928}.png](assets/images/prompting/2DC10674-339C-419C-A18D-E2FA94B49928.png)
