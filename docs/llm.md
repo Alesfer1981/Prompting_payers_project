@@ -114,4 +114,4 @@ Terminos:
 - **Papers de investigación:** arXiv
 - **Comunidades en línea:** Stack Overflow, Reddit (r/machinelearning, r/deeplearning)
 
-![image.png](image%207.png)
+![image.png](assets/images/image%207.png)

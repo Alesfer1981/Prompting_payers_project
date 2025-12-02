@@ -10,4 +10,4 @@ Small language models require:
 
 Making them ideal for startups, academic researchers, and businesses that do not possess the immense resources often associated with big tech companies.
 
-![image.png](image%2033.png)
+![image.png](assets/images/image%2033.png)

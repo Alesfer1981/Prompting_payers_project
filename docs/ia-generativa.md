@@ -4,7 +4,7 @@
 
 In simple terms, **Generative AI** models use the knowledge gained (ganado) from training data (existing content) to generate new content as per the requirements.
 
-![image.png](image%2014.png)
+![image.png](assets/images/image%2014.png)
 
 Son sistemas que son capaces de generar contenido que imita o se aproxima a la habilidad humana.
 Se corresponden con un subconjunto de técnicas pertenecientes al Machine Learning y más concretamente al Deep Learning.
@@ -23,11 +23,11 @@ Generative AI can create various types of content, including:
 - `Audio`: Music, sound effects, speech, etc. → OpenAI’s Jukebox
 - `Video`: Short clips, deepfakes, etc. → Synthesia
 
-![image.png](image%2015.png)
+![image.png](assets/images/image%2015.png)
 
-![image.png](image%2016.png)
+![image.png](assets/images/image%2016.png)
 
-![image.png](image%2017.png)
+![image.png](assets/images/image%2017.png)
 
 For the uninitiated (**no iniciados)**, autonomous agents are AI systems that can perform tasks independently without direct human involvement. These systems have actually existed for some time, but with the development of LLMs, especially those which possess strong reasoning, autonomous agent research (investigacion) has grown exponentially in the very recent past.
 

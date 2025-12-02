@@ -24,7 +24,7 @@ Cuando un modelo de cero disparos está sujeto a entrenamiento adicional, el res
 
 *Domain-specific and task-specific models are fine-tuned using data specific to the domain they’re built for, such as law, medicine, cybersecurity, art, and countless other fields.*
 
-![image.png](image%2023.png)
+![image.png](assets/images/image%2023.png)
 
 **Diferencias entre un modelo fine-tuned y un LLM fundacional:**
 
@@ -37,4 +37,4 @@ Cuando un modelo de cero disparos está sujeto a entrenamiento adicional, el res
 
 Los modelos de borde pueden funcionar como modelos afinados, pero generalmente tienen un alcance aún más pequeño. Este tipo de modelo a menudo está diseñado para producir comentarios inmediatos basados en la entrada del usuario. Google Translate es un ejemplo de un modelo de borde en acción.
 
-![image.png](image%2024.png)
+![image.png](assets/images/image%2024.png)

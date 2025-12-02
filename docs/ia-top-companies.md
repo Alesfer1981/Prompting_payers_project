@@ -4,7 +4,7 @@ OpenAI, Anthropic, xAI, and Mistral, are the hottest AI companies
 
 De donde vienen los ingenieros que contratan estas 4 compañias? La respuesta en el grafico:
 
-![image.png](image%2022.png)
+![image.png](assets/images/image%2022.png)
 
 Most common sources of hires by company:
 

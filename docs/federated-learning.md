@@ -2,4 +2,4 @@
 
 ([Flower](https://flower.ai/docs/framework/tutorial-series-what-is-federated-learning.html#Flower))
 
-![image.png](image%2021.png)
+![image.png](assets/images/image%2021.png)

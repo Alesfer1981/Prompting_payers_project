@@ -32,8 +32,8 @@ Tokenization is the first step in transforming raw text into a format that machi
 
 By the end of today's lesson, you'll be able to implement tokenizers effortlessly and prepare your text data for advanced NLP tasks.
 
-![image.png](image%2018.png)
+![image.png](assets/images/image%2018.png)
 
 To prepare language inputs for transformers, we convert an input sequence into tokens and then into input embeddings. At a high level, an input embedding is a high-dimensional vector that represents the meaning of each token in the sentence. This embedding is then fed into the transformer for processing
 
-![image.png](image%2019.png)
+![image.png](assets/images/image%2019.png)

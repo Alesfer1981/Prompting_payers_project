@@ -238,8 +238,8 @@ Formato en que debe entregarse el código (archivos, ZIP, o texto plano por arch
 
 [RAG con Prompt Language](RAG%20con%20Prompt%20Language%202a4c2187ea1280e58c07cf335a1601dc.md)
 
-![{0D61712F-7740-4771-B2AB-B74101B95AB7}.png](0D61712F-7740-4771-B2AB-B74101B95AB7.png)
+![{0D61712F-7740-4771-B2AB-B74101B95AB7}.png](assets/images/0D61712F-7740-4771-B2AB-B74101B95AB7.png)
 
-![{4F4F8F95-FF50-4CCE-9C60-61143FCF4155}.png](4F4F8F95-FF50-4CCE-9C60-61143FCF4155.png)
+![{4F4F8F95-FF50-4CCE-9C60-61143FCF4155}.png](assets/images/4F4F8F95-FF50-4CCE-9C60-61143FCF4155.png)
 
 ACE: Agent Context Engineering ⇒ Otro nuevo?
