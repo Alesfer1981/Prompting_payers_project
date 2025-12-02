@@ -1,6 +1,18 @@
-# Prompting_payers_project
+📘 Portal de Estudio — IA & Prompt Engineering
 
-Documentación de tu investigación sobre **IA y Prompting**, lista para desplegarse en **GitHub Pages**.
+Bienvenido al repositorio de investigación sobre Inteligencia Artificial, Modelos de Lenguaje, RAG y Prompt Engineering.
+Este portal centraliza todos los temas de estudio con una navegación clara y organizada.
+
+📚 Mapa General de Contenidos
+Este portal está dividido en bloques temáticos para facilitar el acceso a conceptos, técnicas y herramientas.
+
+🔍 Temas Principales
+A continuación encuentras tarjetas de acceso rápido a cada módulo de estudio:
+
+
+🧠 LLM — Large Language Models
+Conceptos, arquitecturas, tipos de modelos, funcionamiento y fundamentos.
+
 
 ## Índice general
 
