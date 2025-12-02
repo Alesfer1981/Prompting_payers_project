@@ -1,9 +1,3 @@
----
-title: IA
-nav_order: 1
-parent: IA & Conceptos Base
----
-
 # IA
 
 - El curso de DataCamp
@@ -32,25 +26,25 @@ Tengo un ejemplo de python que utiliza ollama y contesta preguntas, para usarlo 
 
 ---
 
-[**LLM** ](llm.md)
+[**LLM** ](LLM%203024aa4939ac43b3bf686bfeab956202.md)
 
 [RAG (Retrieval Augmented Generation)](RAG%20(Retrieval%20Augmented%20Generation)%20178c2187ea12804d94a8f801e24078ca.md)
 
-[**Prompt Engineering**](prompt-engineering.md)
+[**Prompt Engineering**](Prompt%20Engineering%20a1db65f94f614990bf1e97629a3ac142.md)
 
-[**IA Generativa**](ia-generativa.md)
+[**IA Generativa**](IA%20Generativa%207867e84e097d43d7900410b515fdadd4.md)
 
 [Tokenización (Tokenization)](Tokenizaci%C3%B3n%20(Tokenization)%20181c2187ea12809d8d4ed8dee572e172.md)
 
-[[**Hugging Face**](https://huggingface.co/)](hugging-face.md)
+[[**Hugging Face**](https://huggingface.co/)](Hugging%20Face%201a4c2187ea128028a22ff8a7cb2462b8.md)
 
 ### Others AI
 
-[Analytics Vidhya](analytics-vidhya.md)
+[Analytics Vidhya](Analytics%20Vidhya%20181c2187ea12803ba22aee22ecdab003.md)
 
-[Federated Learning ](federated-learning.md)
+[Federated Learning ](Federated%20Learning%20170c2187ea1280b1afeed7c5fcc273c8.md)
 
-[IA Top Companies](ia-top-companies.md)
+[IA Top Companies](IA%20Top%20Companies%20158c2187ea12801a9b02ce57152910de.md)
 
 ### Los grandes modelos lingüísticos (LLMs) son un subconjunto de NLP que generan respuestas textuales similares a las humanas
 

@@ -1,9 +1,3 @@
----
-title: Herramientas y Frameworks
-nav_order: 3
-parent: Frameworks & Tools
----
-
 # Herramientas y Frameworks
 
 - **TensorFlow y PyTorch:** Estas son las bibliotecas de deep learning más populares.

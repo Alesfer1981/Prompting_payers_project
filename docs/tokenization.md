@@ -1,9 +1,3 @@
----
-title: Tokenización
-nav_order: 3
-parent: IA & Conceptos Base
----
-
 # Tokenización (Tokenization)
 
 - Un **token** no siempre es una palabra completa.

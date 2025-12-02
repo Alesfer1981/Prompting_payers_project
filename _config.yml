@@ -5,8 +5,17 @@ theme: "just-the-docs"
 url: "https://alesfer1981.github.io"
 baseurl: "/Prompting_payers_project"
 
+# Activa búsqueda interna
 search_enabled: true
 
+# Activa el sidebar automático
+nav_sort: case_insensitive
 aux_links:
-  "Ver repositorio en GitHub":
+  "Repo en GitHub":
     - "https://github.com/Alesfer1981/Prompting_payers_project"
+
+# Menú jerárquico
+just_the_docs:
+  collections:
+    docs:
+      name: Documentación

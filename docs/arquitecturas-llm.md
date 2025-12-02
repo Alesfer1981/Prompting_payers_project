@@ -1,9 +1,3 @@
----
-title: Arquitecturas de LLM
-nav_order: 5
-parent: LLM – Modelos de Lenguaje
----
-
 # Arquitecturas de LLM
 
 Estudia en profundidad las arquitecturas de modelos como:

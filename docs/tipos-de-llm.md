@@ -1,9 +1,3 @@
----
-title: Tipos de LLM
-nav_order: 3
-parent: LLM – Modelos de Lenguaje
----
-
 # Tipos de LLM
 
 Existen varios tipos de grandes modelos del lenguaje en uso. Las diferencias entre ellos radican principalmente en cómo están entrenados y cómo se utilizan. He aquí cómo se comparan a simple vista.

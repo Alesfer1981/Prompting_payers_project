@@ -1,9 +1,3 @@
----
-title: Prompting Language
-nav_order: 3
-parent: Prompt Engineering
----
-
 # Prompting language
 
 ### **Prompting language”** o **lenguaje de instrucciones estructuradas para IA**
@@ -238,11 +232,11 @@ Formato en que debe entregarse el código (archivos, ZIP, o texto plano por arch
 
 ---
 
-[Context Enginnering](context-engineering.md)
+[Context Enginnering](Context%20Enginnering%202b2c2187ea1280528aeae31606e8001a.md)
 
-[Prompt Examples](prompt-examples.md)
+[Prompt Examples](Prompt%20Examples%20293c2187ea12806e91a0ceb83111deb4.md)
 
-[RAG con Prompt Language](rag-con-prompt-language.md)
+[RAG con Prompt Language](RAG%20con%20Prompt%20Language%202a4c2187ea1280e58c07cf335a1601dc.md)
 
 ![{0D61712F-7740-4771-B2AB-B74101B95AB7}.png](0D61712F-7740-4771-B2AB-B74101B95AB7.png)
 

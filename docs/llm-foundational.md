@@ -1,9 +1,3 @@
----
-title: LLM Foundational
-nav_order: 2
-parent: LLM – Modelos de Lenguaje
----
-
 # LLM Foundational
 
 - **Definición**: Se refiere a un LLM general que está listo para su uso en tareas diversas, sin requerir ajustes adicionales. Estos modelos son generalmente grandes, versátiles y pueden abordar una amplia gama de problemas con instrucciones adecuadas (*prompt engineering*).
